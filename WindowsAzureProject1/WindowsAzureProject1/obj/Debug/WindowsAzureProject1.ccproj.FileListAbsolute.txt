@@ -1,0 +1,1 @@
+C:\InteropProjects\Gh_sample\WindowsAzureProject1\WindowsAzureProject1\bin\Debug\ServiceConfiguration.cscfg

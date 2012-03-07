@@ -1,0 +1,10 @@
+C:\InteropProjects\Gh_sample\WindowsAzureProject1\WebRole1\bin\WebRole1.dll
+C:\InteropProjects\Gh_sample\WindowsAzureProject1\WebRole1\bin\WebRole1.pdb
+C:\InteropProjects\Gh_sample\WindowsAzureProject1\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\InteropProjects\Gh_sample\WindowsAzureProject1\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\InteropProjects\Gh_sample\WindowsAzureProject1\WebRole1\bin\System.Web.Providers.dll
+C:\InteropProjects\Gh_sample\WindowsAzureProject1\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\InteropProjects\Gh_sample\WindowsAzureProject1\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.xml
+C:\InteropProjects\Gh_sample\WindowsAzureProject1\WebRole1\obj\Debug\ResolveAssemblyReference.cache
+C:\InteropProjects\Gh_sample\WindowsAzureProject1\WebRole1\obj\Debug\WebRole1.dll
+C:\InteropProjects\Gh_sample\WindowsAzureProject1\WebRole1\obj\Debug\WebRole1.pdb
